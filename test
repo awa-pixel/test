@@ -2,7 +2,9 @@
 <head>
 <title>文件标题</title>
 </head>
-<body>
-文件正文
+<body text = "blue">
+<h2 align = "center">新网站</h2>
+<hr>
+<p>正文</p>
 </body>
 </html>
